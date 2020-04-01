@@ -8,3 +8,6 @@ En base a la carrera, me gustaría desarrollarme en el ámbito de desarrollo o d
 
 A pesar de las noticias que nos conciernen a todos, espero que todos tengan un gran año y se pueda llevar a cabo de la mejor manera posible!
 ---
+![imagenPER](https://user-images.githubusercontent.com/62812983/78087990-32576400-7399-11ea-96e1-11ea2d62befa.jpg)
+
+### ¡Saludos y gracias por leer!
